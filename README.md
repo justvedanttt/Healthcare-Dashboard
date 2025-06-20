@@ -1,5 +1,3 @@
----
-
 📊 Healthcare Power BI Dashboard
 
 📁 Overview
@@ -96,6 +94,3 @@ Power BI
 
 Source: Hospital/Health Management System Data (assumed based on schema)
 
-
-
----
